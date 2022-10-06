@@ -1,0 +1,15 @@
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\bin\Debug\net6.0\Lab2-NumberLoop.exe
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\bin\Debug\net6.0\Lab2-NumberLoop.deps.json
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\bin\Debug\net6.0\Lab2-NumberLoop.runtimeconfig.json
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\bin\Debug\net6.0\Lab2-NumberLoop.dll
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\bin\Debug\net6.0\Lab2-NumberLoop.pdb
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.csproj.AssemblyReference.cache
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.AssemblyInfoInputs.cache
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.AssemblyInfo.cs
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.csproj.CoreCompileInputs.cache
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.dll
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\refint\Lab2-NumberLoop.dll
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.pdb
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\Lab2-NumberLoop.genruntimeconfig.cache
+C:\Users\danin\source\repos\Lab2-NumberLoop\Lab2-NumberLoop\obj\Debug\net6.0\ref\Lab2-NumberLoop.dll
